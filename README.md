@@ -7,24 +7,20 @@
  
 <br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@choeyunseo">
-        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
-    </a>
-    <a href="https://www.notion.so/API-307ab2bcb9794b05b6dd56304dae9faf">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-</div>
- 
-## 📞 Contact 📞
+## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:choeyunseo4060@naver.com">
         <img src="https://img.shields.io/badge/Naver-00ED00?style=for-the-badge&logo=Naver&logoColor=white"> 
   </a>
+  <a href="https://velog.io/@choeyunseo">
+        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
+  </a>
+  <a href="https://www.notion.so/API-307ab2bcb9794b05b6dd56304dae9faf">
+        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+  </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 🔨 Once I've used 
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> 
@@ -46,6 +42,13 @@
     <img src="https://img.shields.io/badge/Google GCP-FFF9F9?style=for-the-badge&logo=google&logoColor=black">
     <br>
 </div><br>
+
+## 🌱 GitHub Stats
+![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunseoChoe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunseoChoe&layout=compact&theme=dracula)
+
+
+
 </div>
 
 <!--
