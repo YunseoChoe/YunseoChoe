@@ -7,7 +7,7 @@
  
 <br>
 
-## 📞 Contact 
+## 🙋🏻‍♀️ About Me
 <div style="display:flex; flex-direction:row;">
   <a href="mailto:choeyunseo4060@naver.com">
         <img src="https://img.shields.io/badge/Naver-00ED00?style=for-the-badge&logo=Naver&logoColor=white"> 
