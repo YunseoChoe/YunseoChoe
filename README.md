@@ -27,12 +27,12 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">   
     <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-A8B9CC?style=for-the-badge&logo=css&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
-    <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=expree.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
@@ -45,9 +45,10 @@
 
 ## 🌱 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunseoChoe&layout=compact&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky09508)](https://solved.ac/sky09508/)
-
 ![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunseoChoe&show_icons=true&theme=radical)
+
+## 📚 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky09508)](https://solved.ac/sky09508/)
 
 
 
