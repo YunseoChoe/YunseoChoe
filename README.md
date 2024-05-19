@@ -44,8 +44,10 @@
 </div><br>
 
 ## 🌱 GitHub Stats
-![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunseoChoe&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunseoChoe&layout=compact&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky09508)](https://solved.ac/sky09508/)
+
+![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunseoChoe&show_icons=true&theme=radical)
 
 
 
