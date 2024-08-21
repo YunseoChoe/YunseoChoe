@@ -1,11 +1,12 @@
-## 👋🏻 Intoduction
+# 👋🏻 Intoduction
 - **`Name`** : &nbsp;최윤서 (Choi Yoon Seo)
 - **`Birth`** : &nbsp;2002.01.29
 - **`University`** : &nbsp;Sangmyung Univ. Software
 - **`Contact`** : &nbsp;choeyunseo4060@naver.com
 - **`Blog`** : [Yoonseo's velog](https://velog.io/@choeyunseo/posts/)
+<br>
  
-## 🔨 Skills
+# 🔨 Skills
 ### Language
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  
@@ -38,10 +39,11 @@
     <br>
 </div><br>
 
-## 🏅 Algorithm
+# 🏅 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky09508)](https://solved.ac/sky09508/)
+<br>
 
-## 🌱 GitHub Stats
+# 🌱 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunseoChoe&layout=compact&theme=dracula)
 ![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunseoChoe&show_icons=true&theme=radical)
 </div>
