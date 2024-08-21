@@ -1,9 +1,9 @@
 ## 👋🏻 Intoduction
-- **Name**:&nbsp;최윤서 (Choi Yoon Seo)
-- **Birth**:&nbsp;2002.01.29
-- **University**:&nbsp;상명대학교 소프트웨어학과 22
-- **Contact**:&nbsp;choeyunseo4060@naver.com
-- **Blog**:[Click here] (https://velog.io/@choeyunseo/posts)
+- **`Name`** : &nbsp;최윤서 (Choi Yoon Seo)
+- **`Birth`** : &nbsp;2002.01.29
+- **`University`** : &nbsp;Sangmyung Univ. Software
+- **`Contact`** : &nbsp;choeyunseo4060@naver.com
+- **`Blog`** : [Yoonseo's velog](https://velog.io/@choeyunseo/posts/)
  
 ## 🔨 Skills
 ### Language
