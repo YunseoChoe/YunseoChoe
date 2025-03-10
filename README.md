@@ -1,64 +1,84 @@
-# 👋🏻 Intoduction
-- **`Name`** : &nbsp;최윤서 (Choi Yoon Seo)
-- **`Birth`** : &nbsp;2002.01.29
-- **`University`** : &nbsp;Sangmyung Univ. Software
-- **`Contact`** : &nbsp;choeyunseo4060@naver.com
-- **`Blog`** : [Yoonseo's velog](https://velog.io/@choeyunseo/posts/)
+# 👋 Intoduction
+- **Name** : &nbsp;최윤서 
+- **Email** : &nbsp;choeyunseo4060@naver.com
+- **Tech Blog** : [Yoonseo's velog](https://velog.io/@choeyunseo/posts/)
 <br>
+
+# 🎓 Education
+- **University** : &nbsp;상명대학교 소프트웨어학과 (**4.0**/4.5)
+<br>
+
+# 👩‍💻 Projects
+- **돌쇠야 (2023)** <br>
+ : 심부름 서비스 (Web) <br>
+ &#8594; ***Role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
+ &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, css), BE(Django, SQLite), DevOps(AWS) <br>
+ &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/2023_LIKELION_HACKATHON
  
+- **데이트 장소 추천 어플 (2023)** <br>
+  : 커플들을 위한 날씨에 따라 데이트 장소를 추천해주는 서비스 <br>
+  &#8594; ***Role***&nbsp;:&nbsp;&nbsp;FullStack <br>
+  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Swift UI), BE(Express.js), DevOps(GCP), DB: MySQL <br>
+  
+- **댓칼코마니 (2024)** <br>
+  : 웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web) <br>
+  &#8594; ***Role***&nbsp;:&nbsp;&nbsp;Backend, DB <br>
+  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, Css), BE(Express.js), DevOps(AWS), DB: MySQL <br>
+  &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE <br>
+  
+- **트립메이트 (2024)** <br>
+  : 친구들과 함께 짜는 여행 계획 서비스 <br>
+  &#8594; ***Role***&nbsp;:&nbsp;&nbsp;Frontend <br>
+  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React), BE(Nest.js), DevOps(GCP), DB: MongoDB <br>
+  &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/tripMate <br>
+<br>
+  
+# ✨ Certificates
+ - **정보처리기사 (필기 합격)** <br>
+ - **정보처리기능사 (24.09)** <br>
+ - **Opic IM2 (25.02)** <br>
+<br>
+
+# 🏆 Awards
+ - **SM@ COSSTHON 우수상 (24.12)**
+<br>
+
+# 💼 Activities
+ |활동명|기간|비고|
+ |---|---|---|
+ |멋쟁이 사자처럼 아기사자 11기|2023.03 ~ 2023.12|백엔드 수료|
+ |Kakao x 9oormthon Univ 2기|2024.02 ~ 2024.08|백엔드 수료|
+<br>
+
 # 🔨 Skills
-### Language
+### [Language]
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> 
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">   
-    <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">   
+    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"> 
     <br>
 </div>
 
-### Front-End
+### [Backend]
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/></a>
+    <br>
 </div>
 
-### Back-End
+### [Frontend]
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <br>
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
-    <img src="https://img.shields.io/badge/Google GCP-FFF9F9?style=for-the-badge&logo=google&logoColor=black">
-    <br>
-</div><br>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+</div>
+
+<br>
 
 # 🏅 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky09508)](https://solved.ac/sky09508/)
 <br>
-
-# 🌱 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunseoChoe&layout=compact&theme=dracula)
-![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunseoChoe&show_icons=true&theme=radical)
-</div>
-
-<!--
-**YunseoChoe/YunseoChoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
