@@ -18,18 +18,18 @@
 - **데이트 장소 추천 어플 (2023)** <br>
   : 커플들을 위한 날씨에 따라 데이트 장소를 추천해주는 서비스 <br>
   &#8594; ***Role***&nbsp;:&nbsp;&nbsp;FullStack <br>
-  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Swift UI), BE(Express.js), DevOps(GCP), DB: MySQL <br>
+  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Swift UI), BE(Express.js), DevOps(GCP), DB(MySQL) <br>
   
 - **댓칼코마니 (2024)** <br>
   : 웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web) <br>
   &#8594; ***Role***&nbsp;:&nbsp;&nbsp;Backend, DB <br>
-  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, Css), BE(Express.js), DevOps(AWS), DB: MySQL <br>
+  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, Css), BE(Express.js), DevOps(AWS), DB(MySQL) <br>
   &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE <br>
   
 - **트립메이트 (2024)** <br>
   : 친구들과 함께 짜는 여행 계획 서비스 <br>
   &#8594; ***Role***&nbsp;:&nbsp;&nbsp;Frontend <br>
-  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React), BE(Nest.js), DevOps(GCP), DB: MongoDB <br>
+  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React), BE(Nest.js), DevOps(GCP), DB(MongoDB) <br>
   &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/tripMate <br>
 <br>
   
