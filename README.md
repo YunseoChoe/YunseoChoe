@@ -1,11 +1,12 @@
 # 👋 Intoduction
 - **Name** : &nbsp;최윤서 
 - **Email** : &nbsp;choeyunseo4060@naver.com
-- **Tech Blog** : [Yoonseo's velog](https://velog.io/@choeyunseo/posts/)
+- **Tech Blog** : [Yunseo's velog](https://velog.io/@choeyunseo/posts/)
 <br>
 
 # 🎓 Education
-- **University** : &nbsp;상명대학교 소프트웨어학과 (**4.0**/4.5)
+- 상명대학교 소프트웨어학과 (**4.0**/4.5)
+- 2022.03 ~ 2026.02 (졸업 예정)
 <br>
 
 # 👩‍💻 Projects
@@ -13,10 +14,10 @@
  : 심부름 서비스 (Web) <br>
  &#8594; ***Role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, css), BE(Django, SQLite), DevOps(AWS) <br>
- &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/2023_LIKELION_HACKATHON
+ &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[돌쇠야](https://github.com/YunseoChoe/2023_LIKELION_HACKATHON)
  
 - **데이트 장소 추천 어플 (2023)** <br>
-  : 커플들을 위한 날씨에 따라 데이트 장소를 추천해주는 서비스 <br>
+  : 커플들을 위한 날씨에 따라 데이트 장소를 추천해주는 서비스 (IOS) <br>
   &#8594; ***Role***&nbsp;:&nbsp;&nbsp;FullStack <br>
   &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Swift UI), BE(Express.js), DevOps(GCP), DB(MySQL) <br>
   
@@ -24,13 +25,13 @@
   : 웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web) <br>
   &#8594; ***Role***&nbsp;:&nbsp;&nbsp;Backend, DB <br>
   &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, Css), BE(Express.js), DevOps(AWS), DB(MySQL) <br>
-  &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE <br>
+  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[댓칼코마니](https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE)
   
 - **트립메이트 (2024)** <br>
-  : 친구들과 함께 짜는 여행 계획 서비스 <br>
+  : 친구들과 함께 짜는 여행 계획 서비스 (Web) <br>
   &#8594; ***Role***&nbsp;:&nbsp;&nbsp;Frontend <br>
   &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React), BE(Nest.js), DevOps(GCP), DB(MongoDB) <br>
-  &#8594; ***Git***&nbsp;:&nbsp;&nbsp;https://github.com/YunseoChoe/tripMate <br>
+  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[트립메이트](https://github.com/YunseoChoe/tripMate)
 <br>
   
 # ✨ Certificates
@@ -60,7 +61,7 @@
     <br>
 </div>
 
-### [Backend]
+### [Back-end]
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -69,7 +70,7 @@
     <br>
 </div>
 
-### [Frontend]
+### [Front-end]
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
