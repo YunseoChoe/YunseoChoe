@@ -12,26 +12,39 @@
 # 👩‍💻 Projects
 - **돌쇠야 (2023)** <br>
  : 심부름 서비스 (Web) <br>
- &#8594; ***Role***&nbsp;:&nbsp;&nbsp;BackEnd <br>
- &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, css), BE(Django, SQLite), DevOps(AWS) <br>
- &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[돌쇠야](https://github.com/YunseoChoe/2023_LIKELION_HACKATHON)
+ &#8594; ***Role***&nbsp;[BE]<br>
+ ↳ CRUD를 기반으로 게시판의 작성, 조회, 수정, 삭제 기능을 구현 <br>
+ ↳ Html, CSS를 사용하여 게시판 UI 구현 <br>
+ &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, CSS), BE(Django, SQLite), DevOps(AWS) <br>
+ &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[돌쇠야 Git Repository](https://github.com/YunseoChoe/2023_LIKELION_HACKATHON)
  
 - **데이트 장소 추천 어플 (2023)** <br>
   : 커플들을 위한 날씨에 따라 데이트 장소를 추천해주는 서비스 (IOS) <br>
-  &#8594; ***Role***&nbsp;:&nbsp;&nbsp;FullStack <br>
+  &#8594; ***Role***&nbsp;[FullStack]<br>
+  ↳ 어플의 UI/UX 구현 <br>
+  ↳ 로그인, 회원가입 API 기능 구현하여 유저 관리 <br>
+  ↳ Weather API를 사용하여 특정 장소의 날씨를 실시간으로 서비스와 연동 <br>
   &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Swift UI), BE(Express.js), DevOps(GCP), DB(MySQL) <br>
   
 - **댓칼코마니 (2024)** <br>
   : 웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web) <br>
-  &#8594; ***Role***&nbsp;:&nbsp;&nbsp;BackEnd, DB <br>
+  &#8594; ***Role***&nbsp;[BE]<br>
+  ↳ 인증/인가에서 필요한 토큰 인증을 위한 미들웨어를 작성 <br>
+  ↳ 로그인, 회원가입 API 기능 구현하여 유저 관리 <br>
+  ↳ 마이페이지 API 기능 구현 <br>
+  ↳ DB 구조화 <br>
+  ↳ GCP를 통한 DB 서버 배포 후, DB 연결 작업 <br>
+  ↳ GCP 서버 배포 후 API 기능 통신 테스트<br>
   &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, Css), BE(Express.js), DevOps(AWS), DB(MySQL) <br>
-  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[댓칼코마니](https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE)
+  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[댓칼코마니 Git Repository](https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE)
   
 - **트립메이트 (2024)** <br>
   : 친구들과 함께 짜는 여행 계획 서비스 (Web) <br>
-  &#8594; ***Role***&nbsp;:&nbsp;&nbsp;FrontEnd <br>
-  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React), BE(Nest.js), DevOps(GCP), DB(MongoDB) <br>
-  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[트립메이트](https://github.com/YunseoChoe/tripMate)
+  &#8594; ***Role***&nbsp;[FrontEnd] <br>
+  ↳ React를 사용하여 화면 전체 **UI/UX** 디자인 및 구현 <br>
+  ↳ 소켓(Socket.io)을 사용하여 백엔드와의 연동을 통한 프로젝트에 필요한 채팅/체크리스트/여행 장소/경비 기능 구현 <br>
+  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React.js), BE(Nest.js), DevOps(GCP), DB(MongoDB) <br>
+  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[트립메이트 Git Repository](https://github.com/YunseoChoe/tripMate)
 <br>
   
 # ✨ Certificates
