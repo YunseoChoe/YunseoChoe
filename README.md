@@ -17,11 +17,11 @@
 # 🏆 Awards & Certificates
 | 내용 | 주관 | 취득일 | 비고 |
 |---|---|---|:---:|
-|정보처리기사|한국산업인력공단|2025.09|[합격증](링크)|
-|SQL Developer (SQLD)|한국데이터산업진흥원|2025.09|[합격증](링크)|
+|정보처리기사|한국산업인력공단|2025.09|[합격증](https://github.com/user-attachments/assets/55875338-c9e7-47d7-81bb-a48aa537ea2f)|
+|SQL Developer (SQLD)|한국데이터산업진흥원|2025.09|[합격증](https://github.com/user-attachments/assets/f59b4e61-b435-44e5-ac8b-119c5d373dfc)|
 |OPIc IM2|ACTFL|2025.02|-|
-|SM@ COSSTHON **우수상**|상명대학교 바이오헬스|2024.12|[상장](링크)|
-|정보처리기능사|한국산업인력공단|2024.09|[합격증](링크)|
+|SM@ COSSTHON **우수상**|상명대학교 바이오헬스|2024.12|[상장](https://github.com/user-attachments/assets/12ef2bf8-dd6d-41ad-8c0f-3947a75cee2b)|
+|정보처리기능사|한국산업인력공단|2024.09|[합격증](https://github.com/user-attachments/assets/267faa4f-96d1-43b6-be61-bc19f10d7566)|
 <br>
 
 # ✨ Experiences
@@ -30,7 +30,7 @@
 |첨단분야 혁신융합대학사업 지능형로봇|2024.04 ~ 2025.02|서포터즈|[수료증](https://github.com/user-attachments/assets/21e6d772-406b-49f9-8132-71b783f3c260)|
 |Kakao x 9oormthon Univ (2기)|2024.02 ~ 2024.08|백엔드|[수료증](https://github.com/user-attachments/assets/a0c5d906-5ae5-4a7d-9d87-d3241b676264)|
 |멋쟁이 사자처럼 대학 (11기)|2023.03 ~ 2023.12|백엔드|-|
-|Tableau 기반 상명 Big Data Visualization Training|2023.07|교육|[수료증](https://github.com/user-attachments/files/22430098/_.pdf)|
+|Tableau 기반 상명 Big Data Visualization Training|2023.07|교육|[수료증](https://github.com/user-attachments/assets/31bcffdc-e144-462e-86ee-b5db389c2ed2)|
 <br>
 
 # 👩🏻‍💻 Projects
