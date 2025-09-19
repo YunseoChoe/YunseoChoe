@@ -1,98 +1,84 @@
-# 👋 Intoduction
-- **Name** : &nbsp;최윤서 
-- **Email** : &nbsp;choeyunseo4060@naver.com
-- **Tech Blog** : [Yunseo's velog](https://velog.io/@choeyunseo/posts/)
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&height=70&size=40&pause=500&color=fcee2a&background=FFFFFF00&width=900&lines=Hi,+I'm+Yun+Seo!+🤩)](https://git.io/typing-svg)**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=20&pause=500&color=FFFFFF&background=00000000&width=600&lines=안녕하세요.+성장을+즐기는+개발자+최윤서입니다.)](https://git.io/typing-svg)
+
+- **`Birth`** : &nbsp;2002.01.29
+- **`Email`** : &nbsp;choeyunseo4060@naver.com
+- **`Tech Blog`** : [yunseo's velog](https://velog.io/@choeyunseo/posts/) <br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky09508)](https://solved.ac/sky09508/)
 <br>
 
 # 🎓 Education
-- 상명대학교 소프트웨어학과 (**4.0**/4.5)
-- 2022.03 ~ 2026.02 (졸업 예정)
+- **상명대학교 소프트웨어학과** (**4.05**/4.5) <br>
+2022.03 ~ 2026.02 (졸업 예정) <br>
+- **천안여자고등학교** <br>
+2018.03 ~ 2021.02 (졸업)
 <br>
 
-# 👩‍💻 Projects
-- **돌쇠야 (2023)** <br>
- : 심부름 서비스 (Web) <br>
- &#8594; ***Role***&nbsp;[BE]<br>
- ↳ CRUD를 기반으로 게시판의 작성, 조회, 수정, 삭제 기능을 구현 <br>
- ↳ Html, CSS를 사용하여 게시판 UI 구현 <br>
- &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, CSS), BE(Django, SQLite), DevOps(AWS) <br>
- &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[돌쇠야 Git Repository](https://github.com/YunseoChoe/2023_LIKELION_HACKATHON)
+# 🏆 Awards & Certificates
+| 내용 | 주관 | 취득일 | 비고 |
+|---|---|---|:---:|
+|정보처리기사|한국산업인력공단|2025.09|[합격증](링크)|
+|SQL Developer (SQLD)|한국데이터산업진흥원|2025.09|[합격증](링크)|
+|OPIc IM2|ACTFL|2025.02|-|
+|SM@ COSSTHON **우수상**|상명대학교 바이오헬스|2024.12|[상장](링크)|
+|정보처리기능사|한국산업인력공단|2024.09|[합격증](링크)|
+<br>
+
+# ✨ Experiences
+|활동명|기간|내용|비고|
+|---|:---:|:---:|:---:|
+|첨단분야 혁신융합대학사업 지능형로봇|2024.04 ~ 2025.02|서포터즈|[수료증](https://github.com/user-attachments/assets/21e6d772-406b-49f9-8132-71b783f3c260)|
+|Kakao x 9oormthon Univ (2기)|2024.02 ~ 2024.08|백엔드|[수료증](https://github.com/user-attachments/assets/a0c5d906-5ae5-4a7d-9d87-d3241b676264)|
+|멋쟁이 사자처럼 대학 (11기)|2023.03 ~ 2023.12|백엔드|-|
+|Tableau 기반 상명 Big Data Visualization Training|2023.07|교육|[수료증](https://github.com/user-attachments/files/22430098/_.pdf)|
+<br>
+
+# 👩🏻‍💻 Projects
+- **Schedu-ly** (2025.08 ~ 2025.09) <br>
+  : MCP 기반 자격증 학습 도우미 (Web & App - PWA) <br>
+  – Role: `BackEnd`, `DevOps`, `PM` <br>
+  – Skills: Spring Boot, Java | OAuth2 | MySQL | GCP, Docker, GitHub Actions <br> 
+  – Detail: [Schedu-ly BE Repository](https://github.com/Schedu-ly/Scheduly-backend)
+    
+- **우아정 (우리 아무걱정 없이, 정확하게 거래해요)** (2025.03 ~ 2025.06) <br>
+  : 블록체인 및 MCP 기반 안심 중고 거래 AI 플랫폼 (Web) <br>
+  – Role: `BackEnd`, `DevOps` <br>
+  – Skills: Spring Boot, Java | OAuth2, STOMP, RabbitMQ | AWS, Docker, GitHub Actions <br> 
+  – Detail: [우아정 BE Repository](https://github.com/YunseoChoe/wooajeongBE)
  
-- **데이트 장소 추천 어플 (2023)** <br>
-  : 커플들을 위한 날씨에 따라 데이트 장소를 추천해주는 서비스 (IOS) <br>
-  &#8594; ***Role***&nbsp;[FullStack]<br>
-  ↳ 어플의 UI/UX 구현 <br>
-  ↳ 로그인, 회원가입 API 기능 구현하여 유저 관리 <br>
-  ↳ Weather API를 사용하여 특정 장소의 날씨를 실시간으로 서비스와 연동 <br>
-  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Swift UI), BE(Express.js), DevOps(GCP), DB(MySQL) <br>
-  
-- **댓칼코마니 (2024)** <br>
-  : 웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web) <br>
-  &#8594; ***Role***&nbsp;[BE]<br>
-  ↳ 인증/인가에서 필요한 토큰 인증을 위한 미들웨어를 작성 <br>
-  ↳ 로그인, 회원가입 API 기능 구현하여 유저 관리 <br>
-  ↳ 마이페이지 API 기능 구현 <br>
-  ↳ DB 구조화 <br>
-  ↳ GCP를 통한 DB 서버 배포 후, DB 연결 작업 <br>
-  ↳ GCP 서버 배포 후 API 기능 통신 테스트<br>
-  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(Html, Css), BE(Express.js), DevOps(AWS), DB(MySQL) <br>
-  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[댓칼코마니 Git Repository](https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE)
-  
-- **트립메이트 (2024)** <br>
+<!-- - **트립메이트 (TripMate)** (2024) <br>
   : 친구들과 함께 짜는 여행 계획 서비스 (Web) <br>
-  &#8594; ***Role***&nbsp;[FrontEnd] <br>
-  ↳ React를 사용하여 화면 전체 **UI/UX** 디자인 및 구현 <br>
-  ↳ 소켓(Socket.io)을 사용하여 백엔드와의 연동을 통한 프로젝트에 필요한 채팅/체크리스트/여행 장소/경비 기능 구현 <br>
-  &#8594; ***Skills***&nbsp;:&nbsp;&nbsp;FE(React.js), BE(Nest.js), DevOps(GCP), DB(MongoDB) <br>
-  &#8594; ***Detail***&nbsp;:&nbsp;&nbsp;[트립메이트 Git Repository](https://github.com/YunseoChoe/tripMate)
-<br>
-  
-# ✨ Certificates
- - **정보처리기사 (필기 합격)** <br>
- - **정보처리기능사 (24.09)** <br>
- - **Opic IM2 (25.02)** <br>
-<br>
+  - Role: FrontEnd <br>
+  - Skills: FE(React.js), BE(Nest.js), DevOps(GCP), DB(MySQL, MongoDB) <br> 
+  - 레포지토리: [Repository](https://github.com/YunseoChoe/tripMate)
+-->
 
-# 🏆 Awards
- - **SM@ COSSTHON 우수상 (24.12)**
-<br>
-
-# 💼 Activities
- |활동명|기간|비고|
- |---|---|---|
- |멋쟁이 사자처럼 아기사자 11기|2023.03 ~ 2023.12|백엔드 수료|
- |Kakao x 9oormthon Univ 2기|2024.02 ~ 2024.08|백엔드 수료|
+- **댓칼코마니 (댓글은 깔끔히, 코멘트는 많이)** (2024.03) <br>
+  : 웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web) <br>
+  – Role: `BackEnd` <br>
+  – Skills: Node.js | MySQL | AWS <br>
+  – Detail: [댓칼코마니 BE Repository](https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE)
 <br>
 
 # 🔨 Skills
-### [Language]
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">   
-    <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"> 
-    <br>
-</div>
+#### [ BackEnd&nbsp;&nbsp;&&nbsp;&nbsp;DevOps ]
+<img src="https://smartcart-s3-bucket.s3.ap-northeast-2.amazonaws.com/badge_SpringBoot.svg" alt="[ Spring Boot ]"/></a> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> <br>
+<img src="https://smartcart-s3-bucket.s3.ap-northeast-2.amazonaws.com/badge_AmazonAWS.svg" alt="[ Amazon AWS ]"/></a>
+<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
 
-### [Back-end]
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/></a>
-    <br>
-</div>
+#### [ FrontEnd ]
+<img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
-### [Front-end]
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-</div>
-
+#### [ Language ]
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <br>
 
-# 🏅 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky09508)](https://solved.ac/sky09508/)
-<br>
+
