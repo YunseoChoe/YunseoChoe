@@ -27,9 +27,9 @@
 # ✨ Experiences
 |활동명|기간|내용|비고|
 |---|:---:|:---:|:---:|
-|첨단분야 혁신융합대학사업 지능형로봇|2024.04 ~ 2025.02|서포터즈|[수료증](https://github.com/user-attachments/assets/21e6d772-406b-49f9-8132-71b783f3c260)|
-|Kakao x 9oormthon Univ (2기)|2024.02 ~ 2024.08|백엔드|[수료증](https://github.com/user-attachments/assets/a0c5d906-5ae5-4a7d-9d87-d3241b676264)|
-|멋쟁이 사자처럼 대학 (11기)|2023.03 ~ 2023.12|백엔드|-|
+|첨단분야 혁신융합대학사업 서포터즈|2024.04 ~ 2025.02|서포터즈|[수료증](https://github.com/user-attachments/assets/21e6d772-406b-49f9-8132-71b783f3c260)|
+|Kakao x 9oormthon Univ 2기|2024.02 ~ 2024.08|백엔드|[수료증](https://github.com/user-attachments/assets/a0c5d906-5ae5-4a7d-9d87-d3241b676264)|
+|멋쟁이 사자처럼 대학 11기|2023.03 ~ 2023.12|백엔드|-|
 | Tableau 기반 상명 Big Data Visualization Training | 2023.07 | 교육 | [수료증](https://github.com/user-attachments/assets/68a73d8e-4994-4d67-bb1e-dbe9ac97b372) |
 <br>
 
