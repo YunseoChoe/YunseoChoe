@@ -55,6 +55,8 @@
 - **`Detail`**: [트립메이트 FE Repository](https://github.com/YunseoChoe/tripmate-frontend)  
 
 #### 5. **웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web)** (2024.03)  
+- **Puppeteer 기반 실시간 크롤링**
+  * 네이버 및 카카오 웹툰 댓글 크롤링
 - **DB 설계 및 운영 & 배포**
   * ERD 설계, GCP(Google Cloud Platform) 환경에서 MySQL 서버 구축
 - **인증/인가 구현**
