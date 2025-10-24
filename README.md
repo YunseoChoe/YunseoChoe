@@ -9,7 +9,7 @@
 <br>
 
 # 🎓 EDUCATION
-- **상명대학교 소프트웨어학과** (**4.05**/4.5) <br>
+- **상명대학교 소프트웨어학과** (**4.03**/4.5) <br>
 2022.03 ~ 2026.02 (졸업 예정) <br>
 - **천안여자고등학교** <br>
 2018.03 ~ 2021.02 (졸업)
@@ -76,15 +76,25 @@
 <br>
 
 # ✨ ACTIVITY
+<!--
 | 활동명 | 주관 |  기간 | 내용 | 비고 |
 |---|:---:|:---:|:---:|:---:|
 | 첨단분야 혁신융합대학사업 서포터즈 | 한국연구재단 | 2024.04 ~ 2025.02 | 서포터즈 | [수료증](https://github.com/user-attachments/assets/21e6d772-406b-49f9-8132-71b783f3c260) |
 | Kakao x 9oormthon Univ 2기 | goorm | 2024.02 ~ 2024.08 | 백엔드 | [수료증](https://github.com/user-attachments/assets/a0c5d906-5ae5-4a7d-9d87-d3241b676264) |
 | 멋쟁이 사자처럼 대학 11기 | LIKELION | 2023.03 ~ 2023.12 | 백엔드 | - |
 | Tableau 기반 상명 Big Data Visualization Training | 로고스데이터| 2023.07 (40H) | 교육 | [수료증](https://github.com/user-attachments/assets/68a73d8e-4994-4d67-bb1e-dbe9ac97b372) |
+-->
+
+| 활동명 | 주관 |  기간 | 내용 |
+|---|:---:|:---:|:---:|
+| 첨단분야 혁신융합대학사업 서포터즈 | 한국연구재단 | 2024.04 ~ 2025.02 | 서포터즈 |
+| Kakao x 9oormthon Univ 2기 | goorm | 2024.02 ~ 2024.08 | 백엔드 |
+| 멋쟁이 사자처럼 대학 11기 | LIKELION | 2023.03 ~ 2023.12 | 백엔드 |
+| Tableau 기반 상명 Big Data Visualization Training | 로고스데이터| 2023.07 (40H) | 교육 |
 <br>
 
 # 🏅 AWARD & CERTIFICATE
+<!--
 | 내용 | 주관 | 취득일 | 비고 |
 |---|---|---|:---:|
 | 정보처리기사 | 한국산업인력공단 | 2025.09 | [합격증](https://github.com/user-attachments/assets/a0994212-4010-4cb8-9862-0c8c04959021) |
@@ -92,6 +102,14 @@
 |OPIc IM2|ACTFL|2025.02|-|
 |SM@ COSSTHON **우수상** 🏆|상명대학교 바이오헬스|2024.12|[상장](https://github.com/user-attachments/assets/12ef2bf8-dd6d-41ad-8c0f-3947a75cee2b)|
 | 정보처리기능사 | 한국산업인력공단 | 2024.09 | [합격증](https://github.com/user-attachments/assets/fb2f2f92-2997-4a0a-a6a4-21a9da05f8e9) |
+-->
+| 내용 | 주관 | 취득일 |
+|---|---|---|
+| 정보처리기사 | 한국산업인력공단 | 2025.09 |
+| SQL Developer (SQLD) | 한국데이터산업진흥원 | 2025.09 |
+|OPIc IM2|ACTFL|2025.02|-|
+|SM@ COSSTHON **우수상** 🏆|상명대학교 바이오헬스|2024.12|
+| 정보처리기능사 | 한국산업인력공단 | 2024.09 |
 <br>
 
 # 🔨 SKILL
