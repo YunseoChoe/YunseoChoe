@@ -58,7 +58,7 @@
 * GitHub Actions + Docker + AWS 자동 배포 파이프라인
 * DB 용도 분리로 성능과 확장성 확보 (MySQL / MongoDB)
 * OAuth2 기반 인증으로 안전한 사용자 접근 제어
-* [우아정 BE Repository!](https://github.com/YunseoChoe/wooajeong-backend)
+* [우아정 BE Repository](https://github.com/YunseoChoe/wooajeong-backend)
 <br>
 
 <!--- ### **AI 기반 그림 분석을 통한 심리치료 서비스 (Web)** (2024.12)  
