@@ -3,8 +3,9 @@
 
 ## 👋 INTRODUCTION
 - **Name** :&nbsp;&nbsp;최윤서
-- **Birth** : &nbsp;&nbsp;2002.01.29
 - **Email** :&nbsp;&nbsp;choeyusneo4060@naver.com
+<!-- - **Birth** : &nbsp;&nbsp;2002.01.29 -->
+
 <!--- **Tech Blog** :&nbsp;&nbsp;[Click!](https://velog.io/@choeyunseo/posts)-->
 <!--- **University** :&nbsp;&nbsp;상명대학교 소프트웨어학과 (졸업 예정)-->
 
