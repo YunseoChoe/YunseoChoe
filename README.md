@@ -52,6 +52,7 @@
 - **Swagger 기반 API 문서 작성**
 - **`Detail`**: [Schedu-ly BE Repository](https://github.com/Schedu-ly/Scheduly-backend)-->
 
+<!--
 ### **AI Agent 기반 안심 중고 거래 서비스 (Web)** (2025.03 ~ 2025.06)
 
 #### 주요 기능
@@ -61,6 +62,8 @@
 * OAuth2 기반 인증으로 안전한 사용자 접근 제어
 * [우아정 BE Repository](https://github.com/YunseoChoe/wooajeong-backend)
 <br>
+
+-->
 
 <!--- ### **AI 기반 그림 분석을 통한 심리치료 서비스 (Web)** (2024.12)  
 - **AI 모델 구축**
@@ -83,7 +86,7 @@
 <br>
 -->
 
-
+<!--
 ### **웹툰 작가와 독자들 간의 긍정적인 소통을 지원하는 서비스 (Web)** (2024.03)
 
 #### 주요 기능
@@ -94,6 +97,7 @@
 * [댓칼코마니 BE Repository](https://github.com/YunseoChoe/2024_BEOTKKOTTHON_TEAM_37_BE)
 <br>
 
+-->
 
 <!--
   – Role: `BackEnd` <br>
