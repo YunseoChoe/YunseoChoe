@@ -40,7 +40,7 @@
 <br>
 
 ### **RunGo - 대규모 트래픽과 동시성 제어를 고려한 마라톤 대회 주최 · 접수 플랫폼**
-> `2026.04 ~ 2026.05(6주)` · `프로그래머스 데브코스 5인 프로젝트` · `팀장 & 백엔드 개발` · `12개 팀 중 우수상 수상` · [GitHub](https://github.com/YunseoChoe/RunGo-backend-kotlin)
+> `2026.04 ~ 2026.05(6주)` · `프로그래머스 데브코스 5인 프로젝트` · `팀장 & 백엔드 개발` · `12개 팀 중 우수상 수상` · [GitHub v1](https://github.com/YunseoChoe/RunGo-backend) · [GitHub v2](https://github.com/YunseoChoe/RunGo-backend-kotlin)
 <!--
 - **기간**: 2026.04 ~ 2026.05 (6주)
 - **기관**: 프로그래머스 데브코스
