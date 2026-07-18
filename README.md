@@ -35,7 +35,7 @@
 - 원자적 업데이트를 활용한 크레딧 결제 동시성 제어로 처리량 **2.6배 향상** 및 평균 응답 속도 **83.3% 단축**
 - 커서 기반 페이징(No-Offset)을 적용하여 거래 내역 조회 성능 최적화
 - AWS S3 Presigned URL을 도입하여 파일 업로드 트래픽 분산 및 서버 부하 최소화
-- JaCoCo 기반 테스트 코드 작성 및 Line Coverage **87%**, Branch Coverage **74%** 달성
+- JaCoCo 기반 테스트 코드 작성 및 **Line Coverage 87%, Branch Coverage 74%** 달성
 
 <br>
 
